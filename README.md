@@ -1,4 +1,4 @@
-# This is an java project which is created to show case and impliment the oops concepts 
+# This is an java project which is created to show case and implement the oops concepts 
 <h1>To execute this project</h1>
 Follow these steps 
 1. clone or download the reposiotry into your machine
